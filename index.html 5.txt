@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<head>
+
+  <link rel="stylesheet" href="css/bootstrap.min.css">
+  <link rel="stylesheet" href="css/index.css">
+</head>
+
+<body>
+  <header>
+    <nav id="header-nav" class="navbar navbar-default">
+        <div class="navbar-header">
+          <div class="navbar-brand">
+            <a href="#">Food, LLC</a>
+          </div>
+          
+              <div class="dropdown-content">
+                <a hef class="icon-bar"></a>
+              <a class="icon-bar"></a>
+              <a class="icon-bar"></a>
+              <a  class="icon-bar"></a>
+            </button>
+        </div>
+        </div>
+        
+      </div>
+<div class="dropdown">
+      <div id="collapse_btn" class="collapse navbar-collapse">
+          <ul class="nav navbar-nav navbar-right visible-xs">
+        <div class="dropdown-content">   
+             <a href="#chicken" id="links">Chicken</a>
+           
+           
+             <a href="#beef" id="links">Beef</a>
+           
+           
+             <a href="#sushi" id="links">Sushi</a>
+        </div>    
+  </div>  
+          
+
+      
+    </nav>
+  </header>
+  
+  <div>
+      <h2 class="text-center">Our Menu</h2>
+  </div>
+    <div class="container-fluid">
+      <div class="row">
+        <div class="col-12">
+          <section id="chicken">
+              <h3 class="text-center">Chicken</h3>
+              <p>
+                  Scientists believe the red jungle fowl, Gallus gallus, is the most likely progenitor of the modern chicken, although research suggests that the domestic chicken's yellow skin is a trait inherited from the gray jungle fowl, Gallus sonneratii.Scientists believe the red jungle fowl, Gallus gallus, is the most likely progenitor of the modern chicken, although research suggests that the domestic chicken's yellow skin is a trait inherited from the gray jungle fowl, Gallus sonneratii.Scientists believe the red jungle fowl, Gallus gallus, is the most likely progenitor of the modern chicken, although research suggests that the domestic chicken's yellow skin is a trait inherited from the gray jungle fowl, Gallus sonneratii.Scientists believe the red jungle fowl, Gallus gallus, is the most likely progenitor of the modern chicken, although research suggests that the domestic chicken's yellow skin is a trait inherited from the gray jungle fowl, Gallus sonneratii.Scientists believe the red jungle fowl, Gallus gallus, is the most likely progenitor of the modern chicken, although research suggests that the domestic chicken's yellow skin is a trait inherited from the gray jungle fowl, Gallus sonneratii.Scientists believe the red jungle fowl, Gallus gallus, is the most likely progenitor of the modern chicken, although research suggests that the domestic chicken's yellow skin is a trait inherited from the gray jungle fowl, Gallus sonneratii.Scientists believe the red jungle fowl, Gallus gallus, is the most likely progenitor of the modern chicken, although research suggests that the domestic chicken's yellow skin is a trait inherited from the gray jungle fowl, Gallus sonneratii.Scientists believe the red jungle fowl, Gallus gallus, is the most likely progenitor of the modern chicken, although research suggests that the domestic chicken's yellow skin is a trait inherited from the gray jungle fowl, Gallus sonneratii.
+                  
+                </p>
+          </section>
+            
+        </div>
+        <div class="col-12">
+          <section id="beef">
+              <h3 class="text-center">Beef</h3>
+              <p>
+                Traditionally, beef meaning “a complaint” or “a dispute” functioned as a count noun; you can have a beef or have multiple beefs with someone. In the 1970s, however, people started using beef as a mass noun, meaning it requires no article and can't be counted, as in Has he got any beef with you?Traditionally, beef meaning “a complaint” or “a dispute” functioned as a count noun; you can have a beef or have multiple beefs with someone. In the 1970s, however, people started using beef as a mass noun, meaning it requires no article and can't be counted, as in Has he got any beef with you?Traditionally, beef meaning “a complaint” or “a dispute” functioned as a count noun; you can have a beef or have multiple beefs with someone. In the 1970s, however, people started using beef as a mass noun, meaning it requires no article and can't be counted, as in Has he got any beef with you?Traditionally, beef meaning “a complaint” or “a dispute” functioned as a count noun; you can have a beef or have multiple beefs with someone. In the 1970s, however, people started using beef as a mass noun, meaning it requires no article and can't be counted, as in Has he got any beef with you?Traditionally, beef meaning “a complaint” or “a dispute” functioned as a count noun; you can have a beef or have multiple beefs with someone. In the 1970s, however, people started using beef as a mass noun, meaning it requires no article and can't be counted, as in Has he got any beef with you?Traditionally, beef meaning “a complaint” or “a dispute” functioned as a count noun; you can have a beef or have multiple beefs with someone. In the 1970s, however, people started using beef as a mass noun, meaning it requires no article and can't be counted, as in Has he got any beef with you?Traditionally, beef meaning “a complaint” or “a dispute” functioned as a count noun; you can have a beef or have multiple beefs with someone. In the 1970s, however, people started using beef as a mass noun, meaning it requires no article and can't be counted, as in Has he got any beef with you?Traditionally, beef meaning “a complaint” or “a dispute” functioned as a count noun; you can have a beef or have multiple beefs with someone. In the 1970s, however, people started using beef as a mass noun, meaning it requires no article and can't be counted, as in Has he got any beef with you?Traditionally, beef meaning “a complaint” or “a dispute” functioned as a count noun; you can have a beef or have multiple beefs with someone. In the 1970s, however, people started using beef as a mass noun, meaning it requires no article and can't be counted, as in Has he got any beef with you?Traditionally, beef meaning “a complaint” or “a dispute” functioned as a count noun; you can have a beef or have multiple beefs with someone. In the 1970s, however, people started using beef as a mass noun, meaning it requires no article and can't be counted, as in Has he got any beef with you?Traditionally, beef meaning “a complaint” or “a dispute” functioned as a count noun; you can have a beef or have multiple beefs with someone. In the 1970s, however, people started using beef as a mass noun, meaning it requires no article and can't be counted, as in Has he got any beef with you?Traditionally, beef meaning “a complaint” or “a dispute” functioned as a count noun; you can have a beef or have multiple beefs with someone. In the 1970s, however, people started using beef as a mass noun, meaning it requires no article and can't be counted, as in Has he got any beef with you?Traditionally, beef meaning “a complaint” or “a dispute” functioned as a count noun; you can have a beef or have multiple beefs with someone. In the 1970s, however, people started using beef as a mass noun, meaning it requires no article and can't be counted, as in Has he got any beef with you?Traditionally, beef meaning “a complaint” or “a dispute” functioned as a count noun; you can have a beef or have multiple beefs with someone. In the 1970s, however, people started using beef as a mass noun, meaning it requires no article and can't be counted, as in Has he got any beef with you?Traditionally, beef meaning “a complaint” or “a dispute” functioned as a count noun; you can have a beef or have multiple beefs with someone. In the 1970s, however, people started using beef as a mass noun, meaning it requires no article and can't be counted, as in Has he got any beef with you?Traditionally, beef meaning “a complaint” or “a dispute” functioned as a count noun; you can have a beef or have multiple beefs with someone. In the 1970s, however, people started using beef as a mass noun, meaning it requires no article and can't be counted, as in Has he got any beef with you?Traditionally, beef meaning “a complaint” or “a dispute” functioned as a count noun; you can have a beef or have multiple beefs with someone. In the 1970s, however, people started using beef as a mass noun, meaning it requires no article and can't be counted, as in Has he got any beef with you?Traditionally, beef meaning “a complaint” or “a dispute” functioned as a count noun; you can have a beef or have multiple beefs with someone. In the 1970s, however, people started using beef as a mass noun, meaning it requires no article and can't be counted, as in Has he got any beef with you?Traditionally, beef meaning “a complaint” or “a dispute” functioned as a count noun; you can have a beef or have multiple beefs with someone. In the 1970s, however, people started using beef as a mass noun, meaning it requires no article and can't be counted, as in Has he got any beef with you?Traditionally, beef meaning “a complaint” or “a dispute” functioned as a count noun; you can have a beef or have multiple beefs with someone. In the 1970s, however, people started using beef as a mass noun, meaning it requires no article and can't be counted, as in Has he got any beef with you?
+              
+                </p>
+          </section>
+        </div>
+        <div class="col-12">
+          <section id="sushi">
+              <h3 class="text-center">Sushi</h3>
+              <p>
+                Cylindrical pieces of vinegared rice and other ingredients wrapped around nori (seaweed sheets,) thin slices of cucumber, soy paper, or thin omelette skin. These are made by rolling the ingredients with a bamboo sushi mat and then slicing the pipe-shaped roll into cylindrical pieces.Cylindrical pieces of vinegared rice and other ingredients wrapped around nori (seaweed sheets,) thin slices of cucumber, soy paper, or thin omelette skin. These are made by rolling the ingredients with a bamboo sushi mat and then slicing the pipe-shaped roll into cylindrical pieces.Cylindrical pieces of vinegared rice and other ingredients wrapped around nori (seaweed sheets,) thin slices of cucumber, soy paper, or thin omelette skin. These are made by rolling the ingredients with a bamboo sushi mat and then slicing the pipe-shaped roll into cylindrical pieces.Cylindrical pieces of vinegared rice and other ingredients wrapped around nori (seaweed sheets,) thin slices of cucumber, soy paper, or thin omelette skin. These are made by rolling the ingredients with a bamboo sushi mat and then slicing the pipe-shaped roll into cylindrical pieces.Cylindrical pieces of vinegared rice and other ingredients wrapped around nori (seaweed sheets,) thin slices of cucumber, soy paper, or thin omelette skin. These are made by rolling the ingredients with a bamboo sushi mat and then slicing the pipe-shaped roll into cylindrical pieces.Cylindrical pieces of vinegared rice and other ingredients wrapped around nori (seaweed sheets,) thin slices of cucumber, soy paper, or thin omelette skin. These are made by rolling the ingredients with a bamboo sushi mat and then slicing the pipe-shaped roll into cylindrical pieces.
+
+
+                </p>
+          </section>
+        </div>
+
+          
+      </div>
+    </div>
+
+  <script src="js/script.js"></script>
+</body>
+</html>
